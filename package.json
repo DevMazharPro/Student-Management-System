@@ -1,0 +1,20 @@
+{
+  "name": "my-studentmanagementsystem",
+  "type": "module",
+  "bin": "index.js",
+  "version": "1.0.0",
+  "description": "Simple Project For School Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mazhar Hussain",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.11.30",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
